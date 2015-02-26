@@ -1,4 +1,0 @@
-algopuzzles
-===========
-
-Algorithimic puzzles
